@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+[https://adamgroenhout.github.io/experiment-site/](https://adamgroenhout.github.io/experiment-site/)
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
